@@ -1,6 +1,6 @@
 ### Test Command
 ```
-echo "Test" | notify -provider discord -id spider -silent
+echo "Test" | notify -provider discord -id h1prvt04 -silent
 ```
 
 
