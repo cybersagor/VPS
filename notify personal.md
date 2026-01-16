@@ -54,5 +54,5 @@ discord:
     discord_channel: "bbwatcher"
     discord_username: "bbwatcher"
     discord_format: "{{data}}"
-    discord_webhook_url: "https://discord.com/api/webhooks/1455109001145483366/uNxw6CCNluWoo1exLl6YSF4CAGGB_smkI_fB6x9fn5TswRH1noboQVdovfWcxDA9hds6"
+    discord_webhook_url: "https://discord.com/api/webhooks/1461781298816225454/xePCkcS3LGGShBajEwiF8Mm27DrcJVvLwZGgzLbZ9pFLE_qkPZ35K6b9ESaZCnyv7Xvq"
 ```
