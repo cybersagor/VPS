@@ -49,4 +49,10 @@ discord:
     discord_username: "yogoshaNT"
     discord_format: "{{data}}"
     discord_webhook_url: "https://discord.com/api/webhooks/1455109001145483366/uNxw6CCNluWoo1exLl6YSF4CAGGB_smkI_fB6x9fn5TswRH1noboQVdovfWcxDA9hds6"
+
+  - id: "bbwatcher"
+    discord_channel: "bbwatcher"
+    discord_username: "bbwatcher"
+    discord_format: "{{data}}"
+    discord_webhook_url: "https://discord.com/api/webhooks/1455109001145483366/uNxw6CCNluWoo1exLl6YSF4CAGGB_smkI_fB6x9fn5TswRH1noboQVdovfWcxDA9hds6"
 ```
